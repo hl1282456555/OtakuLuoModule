@@ -1,0 +1,2 @@
+# OtakuLuoModule
+MiraiGo module - otakuluo
